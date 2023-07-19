@@ -11,7 +11,7 @@
 5.  На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.  
 <img src = "img/preemption.PNG" width = 100%> 
 
-[pkt](https://github.com/RybinSS/hw_keepalive/files/hsrp_advanced-work.pkt)
+![pkt](https://github.com/RybinSS/hw_keepalive/blob/main/files/hsrp_advanced-work.pkt)
 
 
 ### Задание 2
@@ -31,8 +31,8 @@
 
 <img src = "img/keepalive2.PNG" width = 100%> 
 
-![commit gitignore](https://github.com/RybinSS/hw_keepalive/chk_nginx.sh)  
+![commit gitignore](https://github.com/RybinSS/hw_keepalive/blob/main/chk_nginx.sh)  
 
-![commit gitignore](https://github.com/RybinSS/hw_keepalive/keepalived.conf)  
+![commit gitignore](https://github.com/RybinSS/hw_keepalive/blob/main/keepalived.conf)  
 
 
