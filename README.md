@@ -9,7 +9,7 @@
 
 4.  Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 5.  На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.  
-<img src = "img/preemption.png" width = 100%> 
+<img src = "img/preemption.PNG" width = 100%> 
 
 ![pkt](https://github.com/RybinSS/hw_keepalive/files/hsrp_advanced-work.pkt)
 
@@ -27,9 +27,9 @@
 
 5. На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
-<img src = "img/keepalive1.png" width = 100%> 
+<img src = "img/keepalive1.PNG" width = 100%> 
 
-<img src = "img/keepalive2.png" width = 100%> 
+<img src = "img/keepalive2.PNG" width = 100%> 
 
 ![commit gitignore](https://github.com/RybinSS/hw_keepalive/chk_nginx.sh)  
 
